@@ -1,0 +1,56 @@
+body {
+    background: #0B3D91;
+    color: white;
+    font-family: roboto; 
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 25px;
+}
+
+li {
+   list-style-type: none;
+   padding-botton: 10px; 
+}
+
+blockquote {
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: white wavy underline;
+}
+
+#intro {
+    margin: 20px;
+}
+
+section {
+    border: 2px dotted white;
+    padding-bottom: 10px;
+}
+
+blockquote {
+    background-color: #fc3d21;
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 20px;
+}
